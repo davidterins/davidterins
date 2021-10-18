@@ -4,7 +4,9 @@
 - 💬 Ask me about anything.
 - 🚀 I’m currently working on *Logspace*, a cross platform log viewing app created with Electron, aiming to make life with log files more enjoyable. 🖥️
 
-![logspace](resources/logspace.gif)
+<div align="center">
+    <img src="resources/logspace.gif" alt="Electrifying LogViewer" width="512">
+</div>
 
 #### Languages and Tools:
 
