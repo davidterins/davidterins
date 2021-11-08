@@ -35,5 +35,5 @@
 
 ### 📕 Posts
 <!-- BLOG-POST-LIST:START -->
-- [Auto update API for Electron app’s with dotnet & hosting it on Heroku for free](https://medium.com/@dtee/auto-update-api-for-electron-apps-with-dotnet-hosting-it-on-heroku-for-free-6eec86cfba5e?source=rss-505e2cff760------2)
+- [Auto update API for Electron app’s with dotnet &amp; hosting it on Heroku for free](https://medium.com/@dtee/auto-update-api-for-electron-apps-with-dotnet-hosting-it-on-heroku-for-free-6eec86cfba5e?source=rss-505e2cff760------2)
 <!-- BLOG-POST-LIST:END -->
