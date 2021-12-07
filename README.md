@@ -27,7 +27,7 @@
 
 #### Connect with me
 
-[<img style="padding-right:5px" align="left" alt="David Terins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](www.linkedin.com/in/davidterins)
+[<img style="padding-right:5px" align="left" alt="David Terins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/davidterins/)
 
 [<img style="padding-right:5px" align="left" alt="David Terins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@dtee)
 
